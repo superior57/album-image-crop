@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6e69a15-32e1-4256-8221-3ff0917e7548" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/pages/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="530" column="9" selection-start-line="530" selection-start-column="9" selection-end-line="530" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!block;n#makeMovableDiv#0" />
+                <element signature="n#!!block;n#makeMovableDivPhone#0" />
+                <element signature="n#!!block;n#makeResizableDiv#0" />
+                <element signature="n#!!block;n#makeResizableDivPhone#0" />
+                <element signature="n#!!block;n#rotateBase64Image90deg#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1062">
+              <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#canvas#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#span#0;n#span#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#span#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>yui-base</find>
+      <find>data</find>
+      <find>cropped</find>
+      <find>imgshow</find>
+      <find>display</find>
+      <find>clear</find>
+      <find>ctxBack</find>
+      <find>canvas</find>
+      <find>canvasBack</find>
+      <find>reader</find>
+      <find>.jpg</find>
+      <find>640, 641</find>
+      <find>640</find>
+      <find>44px</find>
+      <find>e.pagex</find>
+      <find>posStX</find>
+      <find>e.pageX</find>
+      <find>imgTemp</find>
+      <find>imgHeight</find>
+      <find>drotate</find>
+      <find>/ 3 * 4</find>
+      <find>console</find>
+      <find>imgtemp</find>
+      <find>#imgContainer</find>
+      <find>document.getElementById(&quot;imgContainer&quot;)</find>
+      <find>imgCanvas</find>
+      <find>resizable</find>
+      <find>getele</find>
+      <find>drate</find>
+      <find>drateresize</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.jqg</replace>
+      <replace>width=&quot;130px&quot; height=&quot;44px&quot;</replace>
+      <replace>imgTrans</replace>
+      <replace>resizeImage</replace>
+      <replace>imgLogo</replace>
+      <replace>imgTemp</replace>
+      <replace>imgTemp.</replace>
+      <replace>.png</replace>
+      <replace>wSt,hSt</replace>
+      <replace>42px</replace>
+      <replace>drateresize</replace>
+      <replace>.resizable</replace>
+      <replace>document.querySelector(&quot;.resizable&quot;)</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="F:/07-02-28-CMS/ImageResizeCropCanvas12312/index.html" />
+        <option value="$PROJECT_DIR$/js/pages/as" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/pages/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Album" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Album" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Album" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Album" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Album" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Album" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Album" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Album" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6e69a15-32e1-4256-8221-3ff0917e7548" name="Default Changelist" comment="" />
+      <created>1560358057125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560358057125</updated>
+      <workItem from="1560358058412" duration="3728000" />
+      <workItem from="1560362107388" duration="5555000" />
+      <workItem from="1560376325364" duration="31475000" />
+      <workItem from="1560444032295" duration="9940000" />
+      <workItem from="1560488258414" duration="14990000" />
+      <workItem from="1560510764202" duration="6000" />
+      <workItem from="1560580351705" duration="26203000" />
+      <workItem from="1560664864435" duration="454000" />
+      <workItem from="1560670993862" duration="428000" />
+      <workItem from="1560615249293" duration="4321000" />
+      <workItem from="1560712185606" duration="1876000" />
+      <workItem from="1560730324157" duration="9898000" />
+      <workItem from="1560760280806" duration="6120000" />
+      <workItem from="1560833772021" duration="1739000" />
+      <workItem from="1560856961826" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="116738000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="2427" column="24" lean-forward="true" selection-start-line="2427" selection-start-column="24" selection-end-line="2427" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pages/index_out.js" />
+    <entry file="file://$PROJECT_DIR$/plugins/jquery/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/js/cropper.js" />
+    <entry file="file://$PROJECT_DIR$/index1.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="4572" column="27" lean-forward="true" selection-start-line="4572" selection-start-column="27" selection-end-line="4572" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/07-02-28-CMS/ImageResizeCropCanvas12312/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pages/as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="890">
+          <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pages/index - Copy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="10" selection-end-line="552" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/07-02-28-CMS/ImageResizeCropCanvas12312/js/component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="54" column="85" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="530" column="9" selection-start-line="530" selection-start-column="9" selection-end-line="530" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!block;n#makeMovableDiv#0" />
+            <element signature="n#!!block;n#makeMovableDivPhone#0" />
+            <element signature="n#!!block;n#makeResizableDiv#0" />
+            <element signature="n#!!block;n#makeResizableDivPhone#0" />
+            <element signature="n#!!block;n#rotateBase64Image90deg#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#canvas#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#0;n#span#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#span#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
